@@ -1,2 +1,7 @@
-# datascience
- Assigments from Data Science Specialization by coursera
+### Data Science Specialization
+
+* Uses R
+
+* Nine courses
+
+* Goes from raw data to data products
